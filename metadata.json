@@ -1,0 +1,5 @@
+{
+  "name": "Aura Meeting",
+  "description": "A high-performance, AI-powered video conferencing platform built with LiveKit and Gemini.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
